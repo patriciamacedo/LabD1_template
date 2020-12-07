@@ -1,5 +1,8 @@
 package com.pa.patterns.memento.model;
 
+/**
+ * @author André Sabino
+ */
 public class Product {
     private String name;
     private double cost;

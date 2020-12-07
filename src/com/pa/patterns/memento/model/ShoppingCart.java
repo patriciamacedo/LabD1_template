@@ -5,6 +5,9 @@ import java.util.Collection;
 import java.util.Date;
 import java.util.List;
 
+/**
+ * @author André Sabino
+ */
 public class ShoppingCart {
     private List<Product> products;
 

@@ -3,6 +3,9 @@ package com.pa.patterns.memento.model;
 import java.util.Collection;
 import java.util.Date;
 
+/**
+ * @author André Sabino
+ */
 public class ShoppingCartController {
     private ShoppingCart cart;
 

@@ -15,6 +15,9 @@ import javafx.stage.Stage;
 
 import java.util.Date;
 
+/**
+ * @author André Sabino
+ */
 public class GUI extends Application {
     private ShoppingCartController shoppingCartController;
     private ListView<Product> listViewCartContents;
