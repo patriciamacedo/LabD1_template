@@ -31,7 +31,7 @@ public class ShoppingCartController {
         return;
     }
 
-    public void undo(Date date) {
+    public void undo() {
     }
 
     public Collection<Product> getProducts() {
