@@ -1,4 +1,4 @@
-package com.pa.patterns.memento.model;
+package com.pa.refactoring.model;
 
 /**
  * @author André Sabino
@@ -11,6 +11,7 @@ public class Product {
         this.name = name;
         this.cost = cost;
     }
+
 
     public String getName() {
         return name;
