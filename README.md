@@ -1,6 +1,6 @@
 # Laboratório 5
 
-## Base
+## Exercícios
 
 ###1
 * Na classe ShoppingCart identifique o BAD SMELL: **Temporary field**
