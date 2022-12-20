@@ -68,7 +68,7 @@ public class MainGui extends Application {
                 try {
                     String name = textFieldProductName.getText();
                     double price = Double.parseDouble(textFieldPrice.getText());
-                    shoppingCart.add(new Product(name, price));
+                    shoppingCart.add(new Product(name, price,0.23));
                     labelCost.setText(String.format("Total Cost %.1f €", shoppingCart.getTotal()));
                     listViewCartContents.getItems().clear();
                     for (Product product : shoppingCart) {
