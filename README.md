@@ -14,12 +14,12 @@
 * Na classe ShoppingCart identifique o BAD SMELL: **Data Clumps**
 * Remova este BAD SMELL e indique qual a técnica que aplicou
 
-###5
+###4
 * Na classe ShoppingCart identifique o BAD SMELL: **Refused Bequest**
 * Remova este BAD SMELL e indique qual a técnica que aplicou
 
-###7
-* Na classe MainGui identifique os BAD SMELLs : Long Method & Duplicate Code
+###5
+* Na classe MainGui identifique os BAD SMELLs : **Long Method** & **Duplicate Code**
 * Remova estes  BAD SMELLs e indique qual/quais as técnicas que aplicou 
  
 
